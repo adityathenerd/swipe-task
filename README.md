@@ -6,5 +6,4 @@ Solution: Used pdf loader to load the document and stored it in a vectorstore.
           Parsed the json to extract relevant information and show it on streamlit interface
 
 Output:
-
-      
+![output image](https://github.com/adityathenerd/swipe-task/blob/main/image.png)
